@@ -1,0 +1,32 @@
+
+
+* {font-family:Arial;} /* The asterisc applies a style to every HTML element */
+
+
+h1 {color:#000000  ;  text-align:center; font-size: 32px;} 
+h2 {color:#000000  ; text-align: center; font-size: 30px}
+label {color:#000000  ; text-align: center; font-size: 20px}
+select {color:#000000  ; text-align: center; font-size: 20px}
+
+a {list-style-type: none; text-decoration:underlined;color:#000000 ;  font style: strong; font-size: 28px;}
+a:visited {list-style-type: none; color:#FF0000;text-decoration:underlined;font-size: 28px;} 
+
+body {background-color:#FFFF00 ;}
+li {list-style-type: bullets; font-size: 26px; color: #000000  ; text-align: center}
+img.pc {
+border-style:solid;
+border-color:#006666 ;
+}
+
+input {margin-top:5px;
+    }
+
+
+
+
+
+
+
+
+
+
